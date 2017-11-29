@@ -1,0 +1,20 @@
+{
+  "name": "angulartest1",
+  "version": "1.0.0",
+  "description": "This is dummy project to train myself upon angularjs.",
+  "repository": 
+    {
+      "type": "git",
+      "url": "https://github.com/umaqgeek/angulartest1.git"
+    },
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
